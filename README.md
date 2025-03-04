@@ -1,4 +1,4 @@
-# Cricket-Data-Analytics-using-PowerBI :dashboard:
+# Cricket-Data-Analytics-using-PowerBI 
 
 The T20 World Cup is the pinnacle of cricket entertainment, and with web scraping, Python, and Power BI we can capture and analyze the game's data at its best.
 
